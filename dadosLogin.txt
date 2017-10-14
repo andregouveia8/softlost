@@ -1,0 +1,3 @@
+SoftLost#spa#Administrador#true#true#true#true#true#true
+rqueirosS#slb35#Segurança#true#true#false#true#true#false
+mpintoI#fcpenta#Instituição#false#false#false#true#false#false
